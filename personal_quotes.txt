@@ -1,3 +1,4 @@
-quote 1
+quote 
 quote master master
 
+new line
